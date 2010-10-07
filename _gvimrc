@@ -1,0 +1,5 @@
+set guifont=Menlo\ Regular:h14
+colorscheme slate
+
+set fuoptions=maxvert,maxhorz
+set columns=120
