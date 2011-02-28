@@ -26,3 +26,4 @@ set nowrap
 set switchbuf=usetab,newtab
 
 nnoremap <leader>\ :NERDTreeToggle<CR>
+syntax on
