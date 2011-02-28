@@ -1,5 +1,8 @@
-set guifont=Menlo\ Regular:h14
+set guifont=Mensch\ 10 
 colorscheme slate
+set guioptions-=m
+set guioptions-=T
+set guioptions-=r
 
-set fuoptions=maxvert,maxhorz
+"set fuoptions=maxvert,maxhorz
 set columns=120
