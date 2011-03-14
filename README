@@ -1,1 +1,5 @@
 Darren's vim configuration
+
+fancylad just had to use submodules but always forget to summon them
+$ git submodule init
+$ git submodule update
