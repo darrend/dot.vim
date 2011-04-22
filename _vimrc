@@ -1,6 +1,6 @@
 filetype off
 call pathogen#runtime_append_all_bundles()
-filetype plugin indent on
+filetype plugin indent off
 
 set background=dark
 colorscheme solarized
@@ -10,6 +10,10 @@ set modelines=0
 set tabstop=2
 set softtabstop=2
 set expandtab
+set nosmartindent
+set nocindent
+set autoindent
+
 
 set showmode
 set showcmd
